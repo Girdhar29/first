@@ -1,0 +1,89 @@
+Task 4_2 :- Demonstrate how to query a Large Language Model for summarization or question-answering.
+
+When you are using a Large Language Model  for tasks like summarization 
+or answering questions, the goal is to make your queries clear, but also natural. You want 
+the model to respond in a way that feels like it’s coming from a person — not some robotic,
+formal machine. This involves using simple, direct language, and being specific about what
+you need, while also keeping the tone relaxed and conversational.
+
+
+ Query for Summarization:
+
+Summarizing a piece of text means condensing it into a shorter form, while keeping the main points intact. 
+If you ask an LLM to summarize something, your instructions should be clear but casual. 
+No need to make it super formal or overly specific unless you need something detailed.
+
+Example 1:
+
+You have a long article or passage and you want to summarize it. Here's how you'd ask:
+
+“Hey, can you quickly summarize this in 2-3 sentences  ? 
+Just the main points, no need to get too detailed.”
+
+
+
+Example 2:
+
+"Can you give me a quick rundown of this article? Just highlight the key points."
+
+This is a more conversational way of asking for a summary. 
+You’re not demanding precision or 
+academic-level detail; you just want the gist of it.
+
+Query for Question-Answering:
+
+Question-answering is where you ask the model a specific question based on a text, a topic,
+ or general knowledge. Here, the goal is to get a direct, concise answer — and you don’t want it to sound too robotic.
+
+When asking a question, be clear but not stiff. If the answer involves a text you’re referencing, 
+make sure to include that text clearly, so the model has all the context it needs. But keep the question natural.
+
+You’ve got a passage, and you want to extract information about the challenges faced by the electric vehicle industry.
+
+"I’m reading this article about electric cars, and I’m curious – what are the biggest challenges they’re facing right now? 
+Can you break it down for me?"
+
+Example 2: 
+
+“What are the main solutions that governments are offering to help boost electric car use? Can you point that out for me?”
+
+Here, you're asking the model to focus on a specific part of the text in a straightforward, non-robotic way.
+
+Working Examples of Summarization and Question-Answering:
+Let’s dive into two practical examples to see how you would actually use these queries and get natural-sounding responses.
+
+Summarization Example:
+Text to Summarize:
+
+"Electric vehicles (EVs) are growing in popularity due to their environmental benefits. Governments across the globe have started
+ offering tax rebates and building more charging infrastructure to make EVs more affordable. However, there are still challenges, 
+including the high cost of batteries, limited range, and insufficient charging stations. The future of EVs depends on technological 
+advancements and broader infrastructure development."
+
+Query:
+
+“Can you summarize this in just 2-3 sentences? Keep it simple, just the main points.”
+
+Model's Response:
+
+"Electric vehicles are becoming more popular because they’re better for the environment, 
+and governments are helping by offering tax rebates and building charging stations.
+ But, there are still hurdles like expensive batteries, limited range, and not enough charging spots. 
+The future of EVs will depend on better technology and more infrastructure."
+
+Question-Answering Example:
+Text for Context:
+
+"Electric vehicles are seen as a key solution to reducing carbon emissions, but the industry still faces several obstacles.
+ The high price of batteries makes EVs expensive, and the limited range on a single charge causes concerns for long-distance travelers. 
+Additionally, a lack of charging infrastructure in rural areas makes it hard for drivers to find places to recharge."
+
+Query:
+
+"What are the biggest challenges the electric vehicle industry is facing right now? Can you explain that?"
+
+
+Model's Response:
+
+"The main challenges for electric vehicles are the high cost of batteries, limited range on a single charge, 
+and the lack of charging stations, especially in rural areas."
